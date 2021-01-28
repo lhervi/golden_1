@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="145px" height="65px" viewBox="0 0 145 65" enable-background="new 0 0 145 65" xml:space="preserve">
+<metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.1.2">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
+    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+   dc:format="image/svg+xml"
+   xmp:CreatorTool="Adobe Illustrator CS6 (Windows)"
+   xmp:CreateDate="2016-09-15T09:46:52-05:00"
+   xmp:ModifyDate="2016-09-15T09:46:53-05:00"
+   xmp:MetadataDate="2016-09-15T09:46:53-05:00"
+   xmpMM:RenditionClass="proof:pdf"
+   xmpMM:OriginalDocumentID="uuid:65E6390686CF11DBA6E2D887CEACB407"
+   xmpMM:DocumentID="xmp.did:B8961F55527BE6119C2BC6BC7DFF22D2"
+   xmpMM:InstanceID="xmp.iid:B8961F55527BE6119C2BC6BC7DFF22D2"
+   illustrator:StartupProfile="Web"
+   xmpTPg:NPages="1"
+   xmpTPg:HasVisibleTransparency="False"
+   xmpTPg:HasVisibleOverprint="False"
+   pdf:Producer="Adobe PDF library 10.01">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Web</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <xmp:Thumbnails>
+    <rdf:Alt>
+     <rdf:li
+      xmpGImg:width="256"
+      xmpGImg:height="100"
+      xmpGImg:format="JPEG"
+      xmpGImg:image="/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgAZAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A8+Zc1uxVMtP8z+ZdNYNp&#xA;2rXlky/ZNvcSxEU8ODL4YEvRPKv/ADkv+aGhyxreXqa3ZKRzt75AXI70nTjJX3Yt8sBiFt9M/ld+&#xA;cvlb8wbZksi1lrEC87rSpyDIq9C8bCgkSppUAEdwKjIEUyBZ7gS7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq/NPLmt2KuxV2Kpj5d8wap5e1uz1rS5jBf2Mo&#xA;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"/>
+    </rdf:Alt>
+   </xmp:Thumbnails>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:B7961F55527BE6119C2BC6BC7DFF22D2"
+    stRef:documentID="xmp.did:B7961F55527BE6119C2BC6BC7DFF22D2"
+    stRef:originalDocumentID="uuid:65E6390686CF11DBA6E2D887CEACB407"
+    stRef:renditionClass="proof:pdf"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:B5961F55527BE6119C2BC6BC7DFF22D2"
+      stEvt:when="2016-09-15T09:40:22-05:00"
+      stEvt:softwareAgent="Adobe Illustrator CS6 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:B8961F55527BE6119C2BC6BC7DFF22D2"
+      stEvt:when="2016-09-15T09:46:53-05:00"
+      stEvt:softwareAgent="Adobe Illustrator CS6 (Windows)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpTPg:MaxPageSize
+    stDim:w="145.000000"
+    stDim:h="64.999512"
+    stDim:unit="Pixels"/>
+   <xmpTPg:PlateNames>
+    <rdf:Seq>
+     <rdf:li>PANTONE Black 6 C</rdf:li>
+    </rdf:Seq>
+   </xmpTPg:PlateNames>
+   <xmpTPg:SwatchGroups>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       xmpG:groupName="Default Swatch Group"
+       xmpG:groupType="0">
+      <xmpG:Colorants>
+       <rdf:Seq>
+        <rdf:li
+         xmpG:swatchName="White"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="255"
+         xmpG:blue="255"/>
+        <rdf:li
+         xmpG:swatchName="Black"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="0"
+         xmpG:blue="0"/>
+        <rdf:li
+         xmpG:swatchName="RGB Red"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="0"
+         xmpG:blue="0"/>
+        <rdf:li
+         xmpG:swatchName="RGB Yellow"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="255"
+         xmpG:blue="0"/>
+        <rdf:li
+         xmpG:swatchName="RGB Green"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="255"
+         xmpG:blue="0"/>
+        <rdf:li
+         xmpG:swatchName="RGB Cyan"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="255"
+         xmpG:blue="255"/>
+        <rdf:li
+         xmpG:swatchName="RGB Blue"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="0"
+         xmpG:blue="255"/>
+        <rdf:li
+         xmpG:swatchName="RGB Magenta"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="0"
+         xmpG:blue="255"/>
+        <rdf:li
+         xmpG:swatchName="R=193 G=39 B=45"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="193"
+         xmpG:green="39"
+         xmpG:blue="45"/>
+        <rdf:li
+         xmpG:swatchName="R=237 G=28 B=36"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="237"
+         xmpG:green="28"
+         xmpG:blue="36"/>
+        <rdf:li
+         xmpG:swatchName="R=241 G=90 B=36"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="241"
+         xmpG:green="90"
+         xmpG:blue="36"/>
+        <rdf:li
+         xmpG:swatchName="R=247 G=147 B=30"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="247"
+         xmpG:green="147"
+         xmpG:blue="30"/>
+        <rdf:li
+         xmpG:swatchName="R=251 G=176 B=59"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="251"
+         xmpG:green="176"
+         xmpG:blue="59"/>
+        <rdf:li
+         xmpG:swatchName="R=252 G=238 B=33"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="252"
+         xmpG:green="238"
+         xmpG:blue="33"/>
+        <rdf:li
+         xmpG:swatchName="R=217 G=224 B=33"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="217"
+         xmpG:green="224"
+         xmpG:blue="33"/>
+        <rdf:li
+         xmpG:swatchName="R=140 G=198 B=63"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="140"
+         xmpG:green="198"
+         xmpG:blue="63"/>
+        <rdf:li
+         xmpG:swatchName="R=57 G=181 B=74"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="57"
+         xmpG:green="181"
+         xmpG:blue="74"/>
+        <rdf:li
+         xmpG:swatchName="R=0 G=146 B=69"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="146"
+         xmpG:blue="69"/>
+        <rdf:li
+         xmpG:swatchName="R=0 G=104 B=55"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="104"
+         xmpG:blue="55"/>
+        <rdf:li
+         xmpG:swatchName="R=34 G=181 B=115"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="34"
+         xmpG:green="181"
+         xmpG:blue="115"/>
+        <rdf:li
+         xmpG:swatchName="R=0 G=169 B=157"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="169"
+         xmpG:blue="157"/>
+        <rdf:li
+         xmpG:swatchName="R=41 G=171 B=226"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="41"
+         xmpG:green="171"
+         xmpG:blue="226"/>
+        <rdf:li
+         xmpG:swatchName="R=0 G=113 B=188"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="113"
+         xmpG:blue="188"/>
+        <rdf:li
+         xmpG:swatchName="R=46 G=49 B=146"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="46"
+         xmpG:green="49"
+         xmpG:blue="146"/>
+        <rdf:li
+         xmpG:swatchName="R=27 G=20 B=100"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="27"
+         xmpG:green="20"
+         xmpG:blue="100"/>
+        <rdf:li
+         xmpG:swatchName="R=102 G=45 B=145"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="102"
+         xmpG:green="45"
+         xmpG:blue="145"/>
+        <rdf:li
+         xmpG:swatchName="R=147 G=39 B=143"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="147"
+         xmpG:green="39"
+         xmpG:blue="143"/>
+        <rdf:li
+         xmpG:swatchName="R=158 G=0 B=93"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="158"
+         xmpG:green="0"
+         xmpG:blue="93"/>
+        <rdf:li
+         xmpG:swatchName="R=212 G=20 B=90"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="212"
+         xmpG:green="20"
+         xmpG:blue="90"/>
+        <rdf:li
+         xmpG:swatchName="R=237 G=30 B=121"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="237"
+         xmpG:green="30"
+         xmpG:blue="121"/>
+        <rdf:li
+         xmpG:swatchName="R=199 G=178 B=153"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="199"
+         xmpG:green="178"
+         xmpG:blue="153"/>
+        <rdf:li
+         xmpG:swatchName="R=153 G=134 B=117"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="153"
+         xmpG:green="134"
+         xmpG:blue="117"/>
+        <rdf:li
+         xmpG:swatchName="R=115 G=99 B=87"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="115"
+         xmpG:green="99"
+         xmpG:blue="87"/>
+        <rdf:li
+         xmpG:swatchName="R=83 G=71 B=65"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="83"
+         xmpG:green="71"
+         xmpG:blue="65"/>
+        <rdf:li
+         xmpG:swatchName="R=198 G=156 B=109"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="198"
+         xmpG:green="156"
+         xmpG:blue="109"/>
+        <rdf:li
+         xmpG:swatchName="R=166 G=124 B=82"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="166"
+         xmpG:green="124"
+         xmpG:blue="82"/>
+        <rdf:li
+         xmpG:swatchName="R=140 G=98 B=57"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="140"
+         xmpG:green="98"
+         xmpG:blue="57"/>
+        <rdf:li
+         xmpG:swatchName="R=117 G=76 B=36"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="117"
+         xmpG:green="76"
+         xmpG:blue="36"/>
+        <rdf:li
+         xmpG:swatchName="R=96 G=56 B=19"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="96"
+         xmpG:green="56"
+         xmpG:blue="19"/>
+        <rdf:li
+         xmpG:swatchName="R=66 G=33 B=11"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="66"
+         xmpG:green="33"
+         xmpG:blue="11"/>
+        <rdf:li
+         xmpG:swatchName="PANTONE Black 6 C"
+         xmpG:type="SPOT"
+         xmpG:tint="100.000000"
+         xmpG:mode="LAB"
+         xmpG:L="7.843137"
+         xmpG:A="-2"
+         xmpG:B="-7"/>
+       </rdf:Seq>
+      </xmpG:Colorants>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpG:groupName="Grays"
+       xmpG:groupType="1">
+      <xmpG:Colorants>
+       <rdf:Seq>
+        <rdf:li
+         xmpG:swatchName="R=0 G=0 B=0"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="0"
+         xmpG:green="0"
+         xmpG:blue="0"/>
+        <rdf:li
+         xmpG:swatchName="R=26 G=26 B=26"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="26"
+         xmpG:green="26"
+         xmpG:blue="26"/>
+        <rdf:li
+         xmpG:swatchName="R=51 G=51 B=51"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="51"
+         xmpG:green="51"
+         xmpG:blue="51"/>
+        <rdf:li
+         xmpG:swatchName="R=77 G=77 B=77"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="77"
+         xmpG:green="77"
+         xmpG:blue="77"/>
+        <rdf:li
+         xmpG:swatchName="R=102 G=102 B=102"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="102"
+         xmpG:green="102"
+         xmpG:blue="102"/>
+        <rdf:li
+         xmpG:swatchName="R=128 G=128 B=128"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="128"
+         xmpG:green="128"
+         xmpG:blue="128"/>
+        <rdf:li
+         xmpG:swatchName="R=153 G=153 B=153"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="153"
+         xmpG:green="153"
+         xmpG:blue="153"/>
+        <rdf:li
+         xmpG:swatchName="R=179 G=179 B=179"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="179"
+         xmpG:green="179"
+         xmpG:blue="179"/>
+        <rdf:li
+         xmpG:swatchName="R=204 G=204 B=204"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="204"
+         xmpG:green="204"
+         xmpG:blue="204"/>
+        <rdf:li
+         xmpG:swatchName="R=230 G=230 B=230"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="230"
+         xmpG:green="230"
+         xmpG:blue="230"/>
+        <rdf:li
+         xmpG:swatchName="R=242 G=242 B=242"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="242"
+         xmpG:green="242"
+         xmpG:blue="242"/>
+       </rdf:Seq>
+      </xmpG:Colorants>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpG:groupName="Web Color Group"
+       xmpG:groupType="1">
+      <xmpG:Colorants>
+       <rdf:Seq>
+        <rdf:li
+         xmpG:swatchName="R=63 G=169 B=245"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="63"
+         xmpG:green="169"
+         xmpG:blue="245"/>
+        <rdf:li
+         xmpG:swatchName="R=122 G=201 B=67"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="122"
+         xmpG:green="201"
+         xmpG:blue="67"/>
+        <rdf:li
+         xmpG:swatchName="R=255 G=147 B=30"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="147"
+         xmpG:blue="30"/>
+        <rdf:li
+         xmpG:swatchName="R=255 G=29 B=37"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="29"
+         xmpG:blue="37"/>
+        <rdf:li
+         xmpG:swatchName="R=255 G=123 B=172"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="255"
+         xmpG:green="123"
+         xmpG:blue="172"/>
+        <rdf:li
+         xmpG:swatchName="R=189 G=204 B=212"
+         xmpG:mode="RGB"
+         xmpG:type="PROCESS"
+         xmpG:red="189"
+         xmpG:green="204"
+         xmpG:blue="212"/>
+       </rdf:Seq>
+      </xmpG:Colorants>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </xmpTPg:SwatchGroups>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                        
+<?xpacket end="w"?>
+	</metadata>
+<g>
+	<g>
+		<path fill="#7E8186" d="M41.4,24.3H45c4.6,0,7.1,1.4,7.1,4.6c0,2.1-1.1,3.3-2.9,3.7v0.1c2.2,0.6,4.1,2.1,4.1,4.5
+			c0,3.1-2.3,4.7-5.5,4.7h-6.4V24.3z M43.3,32.3h2.5c3.1,0,4.4-1.3,4.4-3.4c0-2.7-1.9-3.7-5.3-3.7h-1.6V32.3z M43.3,41.1h3.1
+			c3.5,0,4.9-1.2,4.9-3.8c0-2.4-1.5-4.1-5.1-4.1h-2.9V41.1z"/>
+		<path fill="#7E8186" d="M60.5,23.8L60.5,23.8L67.8,42h-2l-2.2-5.5h-7.1L54.4,42h-1.2L60.5,23.8z M56.9,35.6h6.4l-3.1-8.2
+			L56.9,35.6z"/>
+		<path fill="#7E8186" d="M69,42V24.3h5.1c4.3,0,6.6,2,6.6,4.9c0,2.3-1.7,4.3-5.6,4.3h-0.4l5.9,8.5h-2.4l-6.4-9.2h1.3
+			c2.9,0,5.5-0.8,5.5-3.5c0-3.3-2.6-4.2-4.7-4.2h-3.1V42H69z"/>
+		<path fill="#7E8186" d="M82.3,24.3H86c6.4,0,10.6,3,10.6,9.4c0,4.2-3.2,8.3-8.3,8.3h-6.1V24.3z M84.2,41.1h3
+			c4.2,0,7.3-2.7,7.3-7.6c0-5.8-3.4-8.4-8.3-8.4h-1.9V41.1z"/>
+		<path fill="#7E8186" d="M103.9,23.8L103.9,23.8l7.3,18.2h-2l-2.2-5.5h-7.1L97.7,42h-1.2L103.9,23.8z M100.3,35.6h6.4l-3.1-8.2
+			L100.3,35.6z"/>
+		<path fill="#7E8186" d="M112.4,39.2c0.7,1.3,1.8,2.4,3.3,2.4c2.2,0,3.7-1.5,3.7-3.7c0-5.5-7.9-3.1-7.9-8.9c0-2.9,2-5.1,5-5.1
+			c2.5,0,3.6,1.2,4.2,2.4l-0.8,0.5c-0.8-1.4-1.6-2.2-3.4-2.2c-1.9,0-3.2,1.8-3.2,3.6c0,5.4,8,3,8,9c0,2.9-2.3,5.4-5.3,5.4
+			c-2.3,0-3.7-1-4.6-2.6L112.4,39.2z"/>
+		<polygon fill="#7E8186" points="122.5,25.2 122.5,24.3 135.8,24.3 124.3,41.1 135.4,41.1 135.4,42 121.6,42 133.2,25.2 		"/>
+	</g>
+	<path fill="#111820" d="M10,30.5h7.5c9.3,0,13.3-3.8,13.3-10.3c0-8-5.6-11.1-16-11.1H10V30.5z M10,56.8h9.2
+		c10.5,0,14.7-3.7,14.7-11.3c0-7.2-4.5-12.4-15.3-12.4H10V56.8z"/>
+</g>
+<g display="none">
+	<g display="inline">
+		<path fill="#FFFFFF" d="M41.4,24.3H45c4.6,0,7.1,1.4,7.1,4.6c0,2.1-1.1,3.3-2.9,3.7v0.1c2.2,0.6,4.1,2.1,4.1,4.5
+			c0,3.1-2.3,4.7-5.5,4.7h-6.4V24.3z M43.3,32.3h2.5c3.1,0,4.4-1.3,4.4-3.4c0-2.7-1.9-3.7-5.3-3.7h-1.6V32.3z M43.3,41.1h3.1
+			c3.5,0,4.9-1.2,4.9-3.8c0-2.4-1.5-4.1-5.1-4.1h-2.9V41.1z"/>
+		<path fill="#FFFFFF" d="M60.5,23.8L60.5,23.8L67.8,42h-2l-2.2-5.5h-7.1L54.4,42h-1.2L60.5,23.8z M56.9,35.6h6.4l-3.1-8.2
+			L56.9,35.6z"/>
+		<path fill="#FFFFFF" d="M69,42V24.3h5.1c4.3,0,6.6,2,6.6,4.9c0,2.3-1.7,4.3-5.6,4.3h-0.4l5.9,8.5h-2.4l-6.4-9.2h1.3
+			c2.9,0,5.5-0.8,5.5-3.5c0-3.3-2.6-4.2-4.7-4.2h-3.1V42H69z"/>
+		<path fill="#FFFFFF" d="M82.3,24.3H86c6.4,0,10.6,3,10.6,9.4c0,4.2-3.2,8.3-8.3,8.3h-6.1V24.3z M84.2,41.1h3
+			c4.2,0,7.3-2.7,7.3-7.6c0-5.8-3.4-8.4-8.3-8.4h-1.9V41.1z"/>
+		<path fill="#FFFFFF" d="M103.9,23.8L103.9,23.8l7.3,18.2h-2l-2.2-5.5h-7.1L97.7,42h-1.2L103.9,23.8z M100.3,35.6h6.4l-3.1-8.2
+			L100.3,35.6z"/>
+		<path fill="#FFFFFF" d="M112.4,39.2c0.7,1.3,1.8,2.4,3.3,2.4c2.2,0,3.7-1.5,3.7-3.7c0-5.5-7.9-3.1-7.9-8.9c0-2.9,2-5.1,5-5.1
+			c2.5,0,3.6,1.2,4.2,2.4l-0.8,0.5c-0.8-1.4-1.6-2.2-3.4-2.2c-1.9,0-3.2,1.8-3.2,3.6c0,5.4,8,3,8,9c0,2.9-2.3,5.4-5.3,5.4
+			c-2.3,0-3.7-1-4.6-2.6L112.4,39.2z"/>
+		<polygon fill="#FFFFFF" points="122.5,25.2 122.5,24.3 135.8,24.3 124.3,41.1 135.4,41.1 135.4,42 121.6,42 133.2,25.2 		"/>
+	</g>
+	<path display="inline" fill="#FFFFFF" d="M10,30.5h7.5c9.3,0,13.3-3.8,13.3-10.3c0-8-5.6-11.1-16-11.1H10V30.5z M10,56.8h9.2
+		c10.5,0,14.7-3.7,14.7-11.3c0-7.2-4.5-12.4-15.3-12.4H10V56.8z"/>
+</g>
+</svg>
