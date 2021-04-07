@@ -22,9 +22,13 @@ func TestToJSON(t *testing.T) {
 		t.Fatalf("failed reading .golden: %s", err)
 	}
 
+	fmt.Printf("Contenido del archivo: %s", g)
+	fmt.Println("")
+	fmt.Printf("Contenido de la salida: %v", b.String())
+	fmt.Println("")
 	fmt.Printf("Contenido del archivo: %v", g)
 	fmt.Println("")
-	fmt.Printf("Contenido del archivo: %v", b.Bytes())
+	fmt.Printf("Contenido de la salida: %v", b.Bytes())
 	fmt.Println("")
 
 	if !bytes.Equal(b.Bytes(), g) {
